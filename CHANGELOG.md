@@ -1,3 +1,6 @@
+## 5.5.1
+Fix issue 'Web on iOS: Loading Spinner keep spinning after cancel pickFiles' ([#1364](https://github.com/miguelpruivo/flutter_file_picker/pull/1364)) with PR ([#1365](https://github.com/miguelpruivo/flutter_file_picker/pull/1365)). Thank you @test0terter0n!
+
 ## 5.5.0
 ### iOS
 Fix if selecting from gallery multiple files from remote sources (eg GoPro, Drone) imported to the device gallery and uploaded to iCloud they would have the same file name and it shows only one image repeated
