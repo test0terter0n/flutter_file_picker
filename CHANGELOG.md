@@ -1,5 +1,9 @@
-## 5.5.1
-Fix issue 'Web on iOS: Loading Spinner keep spinning after cancel pickFiles' ([#1364](https://github.com/miguelpruivo/flutter_file_picker/pull/1364)) with PR ([#1365](https://github.com/miguelpruivo/flutter_file_picker/pull/1365)). Thank you @test0terter0n!
+## 6.0.0
+Update minimum Flutter version to 3.7.0.
+
+### iOS
+Update minimum iOS version to 11.0.
+Fix several warnings in the iOS plugin implementation.
 
 ## 5.5.0
 ### iOS
